@@ -16,7 +16,7 @@ The short-term rental market is highly dynamic, with prices, availability, and c
 - The dataset consists of **Airbnb listings** with details such as host information, pricing, location, availability, and reviews.
 - The data was preprocessed to remove duplicates, handle missing values, and standardize formats.
 
-## 🛠 Tools Used  
+## Tools Used  
 - **Power BI** – Data visualization
 - **SQL / Python** (if used for data cleaning)
 - **Excel** (if preprocessing was done here)
