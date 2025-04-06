@@ -41,4 +41,4 @@ Download the Power BI file here: [Dashboard.pbix](Dashboard.pbix)
 3. Explore the dataset and interactive visualizations.  
 
 ## Contact 📩  
-If you have questions, feel free to connect with me on **[LinkedIn](https://linkedin.com/in/yourprofile)** or email me at **your-email@example.com**.  
+If you have questions, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/ezinneesther/)** or email me at **ezinnemadukairo@gmail.com**.  
