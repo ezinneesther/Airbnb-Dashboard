@@ -24,7 +24,7 @@ Here are some insights from the analysis:
 - **Private rooms are the most common type of listing.**  
 - **Hosts with more reviews tend to have lower prices.**  
   
-![Insights](Airbnb.png)  
+![Insights](airbnb (2).png)  
 
 ## Power BI Dashboard   
 The dashboard consists of multiple visuals, including:  
