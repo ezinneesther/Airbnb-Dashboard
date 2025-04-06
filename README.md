@@ -2,10 +2,25 @@
 ![AirBnb](image-airbnb.jpg) 
  Airbnb Data Analysis &amp; Visualization | Power BI Dashboard This project explores Airbnb listing trends, including pricing, availability, and neighborhood insights. The dataset was cleaned and transformed before creating an interactive Power BI dashboard to visualize key patterns
 
-# Airbnb Data Analysis Dashboard  
+## Project Overview  
+This project explores **Airbnb listing trends**, including pricing, availability, and neighborhood insights. The dataset was cleaned and transformed before creating an interactive Power BI dashboard to visualize key patterns.
 
-## Overview  
-This project analyzes Airbnb listings data, exploring pricing trends, availability, and customer reviews. The dashboard was created using **Power BI**, incorporating data cleaning, transformations, and visual insights.  
+##  Problem Statement  
+The short-term rental market is highly dynamic, with prices, availability, and customer preferences constantly shifting. This analysis aims to answer key questions such as:
+- Which neighborhoods have the highest number of Airbnb listings?
+- What factors influence pricing trends?
+- How does availability vary across different regions?
+- Which hosts have the most listings and reviews?
+
+## Dataset Description  
+- The dataset consists of **Airbnb listings** with details such as host information, pricing, location, availability, and reviews.
+- The data was preprocessed to remove duplicates, handle missing values, and standardize formats.
+
+## 🛠 Tools Used  
+- **Power BI** – Data visualization
+- **SQL / Python** (if used for data cleaning)
+- **Excel** (if preprocessing was done here)
+  
 
 ## Data Cleaning 
 Before building the dashboard, I performed the following data cleaning steps:  
@@ -24,7 +39,7 @@ Here are some insights from the analysis:
 - **Private rooms are the most common type of listing.**  
 - **Hosts with more reviews tend to have lower prices.**  
   
-![Insights](airbnb (2).png)  
+![Insights](airbnb.png)  
 
 ## Power BI Dashboard   
 The dashboard consists of multiple visuals, including:  
