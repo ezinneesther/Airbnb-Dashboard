@@ -32,7 +32,7 @@ The dashboard consists of multiple visuals, including:
 - **Availability trends**  
 - **Review counts by host**  
 
-Download the Power BI file here: [Dashboard.pbix](Dashboard.pbix)  
+Download the Power BI file here: [Dashboard.pbix](AirBNB.pbix)  
 
 ## How to Use This Repository   
 1. Clone or download this repository.  
