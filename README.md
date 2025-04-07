@@ -31,7 +31,7 @@ Before building the dashboard, I performed the following data cleaning steps:
 ✅ Filtered outliers in price distributions  
 
 *Example screenshot:*  
-![Data Cleaning](images/data_cleaning.png)  
+![Data Cleaning](Datacleaning-Airbnb.png)  
 
 ## Key Insights 
 Here are some insights from the analysis:  
