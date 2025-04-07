@@ -23,11 +23,11 @@ The short-term rental market is highly dynamic, with prices, availability, and c
   
 
 ## Data Cleaning 
-Before building the dashboard, I performed the following data cleaning steps:  
+Before building the dashboard, I performed the following data cleaning steps: 
+✅ Removed unnecesary columns
 ✅ Removed duplicate listings  
 ✅ Handled missing values in price and review columns  
 ✅ Standardized date formats  
-✅ Removed unnecesary columns
 ✅ Filtered outliers in price distributions  
 
 *Example screenshot:*  
