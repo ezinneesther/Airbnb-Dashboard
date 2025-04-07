@@ -18,8 +18,8 @@ The short-term rental market is highly dynamic, with prices, availability, and c
 
 ## Tools Used  
 - **Power BI** – Data visualization
-- **SQL / Python** (if used for data cleaning)
-- **Excel** (if preprocessing was done here)
+- **Power Querry** Data cleaning
+- **Excel** 
   
 
 ## Data Cleaning 
@@ -27,6 +27,7 @@ Before building the dashboard, I performed the following data cleaning steps:
 ✅ Removed duplicate listings  
 ✅ Handled missing values in price and review columns  
 ✅ Standardized date formats  
+✅ Removed unnecesary columns
 ✅ Filtered outliers in price distributions  
 
 *Example screenshot:*  
