@@ -30,7 +30,7 @@ Before building the dashboard, I performed the following data cleaning steps:
 ✅ Standardized date formats  
 ✅ Filtered outliers in price distributions  
 
-*Example screenshot:*  
+
 ![Data Cleaning](Datacleaning-Airbnb.png)  
 
 ## Key Insights 
